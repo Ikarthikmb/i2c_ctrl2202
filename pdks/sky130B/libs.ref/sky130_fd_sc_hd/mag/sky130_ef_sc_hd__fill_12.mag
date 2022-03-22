@@ -1,0 +1,24 @@
+magic
+tech sky130B
+timestamp 1644511149
+use sky130_fd_sc_hd__decap_6  sky130_fd_sc_hd__decap_6_0
+timestamp 1644511149
+transform 1 0 0 0 1 0
+box -19 -24 295 296
+use sky130_fd_sc_hd__fill_2  sky130_fd_sc_hd__fill_2_0
+timestamp 1644511149
+transform 1 0 460 0 1 0
+box -19 -24 111 296
+use sky130_fd_sc_hd__fill_4  sky130_fd_sc_hd__fill_4_0
+timestamp 1644511149
+transform 1 0 276 0 1 0
+box -19 -24 203 296
+<< properties >>
+string FIXED_BBOX 0 0 552 272
+string GDS_END 3904672
+string GDS_FILE $PDKPATH/libs.ref/sky130_fd_sc_hd/gds/sky130_fd_sc_hd.gds
+string GDS_START 3904442
+string LEFclass CORE
+string LEFsite unithd
+string LEFsymmetry X Y R90
+<< end >>
